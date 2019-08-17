@@ -1,0 +1,11 @@
+[package]
+name = "rustux"
+version = "0.1.0"
+authors = ["Jonathan Kelley <jkelleyrtp@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+yew = "0.7.0"
+derive_builder = "0.7.2"
